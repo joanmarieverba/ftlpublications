@@ -8,6 +8,16 @@ body {
   height: 225px;
 }
 
+.footer-center {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+li {
+  display: inline-block;
+}
+
 .navbar-header > .logo {
   height: 50px;
   width: 150px;
@@ -29,9 +39,7 @@ body {
     text-align: center;
 }
 
-.footer-center {
-  color: white;
-  font-weight: bold;
-  text-align: center;
-
+.spacing {
+  margin-left: 28vw;
+  margin-right: 16vw;
 }
