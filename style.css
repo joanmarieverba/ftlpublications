@@ -1,7 +1,7 @@
 body {
   font-family: 'Oswald', sans-serif;
   /* font-family: 'Passion One', cursive; */
-  /* font-family: 'Patua One', cursive; */
+
   /* font-family: 'Righteous', cursive; */
   background: url('./images/milky-way.jpg'); 
 }
@@ -15,6 +15,11 @@ body {
   color: white;
   font-weight: bold;
   text-align: center;
+}
+
+h3 {
+  color: white;
+  font-family: 'Patua One', cursive;
 }
 
 li {
@@ -40,6 +45,11 @@ li {
     color: white;
     font-weight: bold;
     text-align: center;
+}
+
+.rectangle {
+  width: 300px;
+  height: 150px;
 }
 
 .spacing {
