@@ -1,5 +1,8 @@
 body {
   font-family: 'Oswald', sans-serif;
+  /* font-family: 'Passion One', cursive; */
+  /* font-family: 'Patua One', cursive; */
+  /* font-family: 'Righteous', cursive; */
   background: url('./images/milky-way.jpg'); 
 }
 
@@ -47,5 +50,10 @@ li {
 .spacing2 {
   margin-left: 37vw;
   margin-right: 12vw;
+}
+
+.square {
+  width: 150px;
+  height: 150px;
 }
 
