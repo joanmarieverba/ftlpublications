@@ -6,6 +6,11 @@ body {
   background: url('./images/milky-way.jpg'); 
 }
 
+.blog {
+  margin-left: 12vw;
+  margin-top: 2vw;
+}
+
 .cover {
   width: 150px;
   height: 225px;
@@ -80,3 +85,9 @@ li {
   height: 175px;
 }
 
+.youtube {
+  background-color: antiquewhite;
+    width: 14vw;
+    padding: 0;
+    margin-left: 5vw;
+}
