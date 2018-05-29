@@ -1,7 +1,5 @@
 body {
   font-family: 'Oswald', sans-serif;
-  /* font-family: 'Passion One', cursive; */
-
   /* font-family: 'Righteous', cursive; */
   background: url('./images/milky-way.jpg'); 
 }
@@ -32,6 +30,11 @@ body {
 h3 {
   color: white;
   font-family: 'Patua One', cursive;
+}
+
+h4 {
+  color: black;
+  font-family: 'Passion One', cursive;
 }
 
 li {
