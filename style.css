@@ -9,6 +9,11 @@ body {
   margin-top: 2vw;
 }
 
+.btn {
+  width: 150px;
+  height: 50px;
+}
+
 .cover {
   width: 150px;
   height: 225px;
@@ -16,6 +21,12 @@ body {
 
 .footer-center {
   color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+.footer-contrast {
+  color: black;
   font-weight: bold;
   text-align: center;
 }
@@ -40,6 +51,7 @@ h4 {
 h5 {
   color: white;
 }
+
 
 li {
   display: inline-block;
@@ -72,6 +84,13 @@ li {
 .rectangle {
   width: 300px;
   height: 150px;
+}
+
+.reviews {
+  color: midnightblue;
+  font-family: 'Patua One', cursive;
+  font-size: 16px;
+  line-height: 1.0;
 }
 
 .spacing {
