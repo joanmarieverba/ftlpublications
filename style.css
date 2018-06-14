@@ -9,6 +9,11 @@ body {
   margin-top: 2vw;
 }
 
+.breadcrumb {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+
 .btn {
   width: 150px;
   height: 50px;
@@ -72,6 +77,15 @@ li {
 
 .navbar {
   border-radius: 0;
+  margin-bottom: 0;
+}
+
+.nomargin {
+  margin-bottom: 0;
+}
+
+ol {
+  margin-bottom: 0;
 }
 
 .panel > .panel-info {
@@ -128,6 +142,10 @@ li {
   padding-top: 25px;
   width: 150px;
   height: 200px;
+}
+
+.titles {
+  text-align: center;
 }
 
 .youtube {
