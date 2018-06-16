@@ -9,6 +9,10 @@ body {
   margin-top: 2vw;
 }
 
+.bmargin {
+  margin-bottom: 2vw;
+}
+
 .breadcrumb {
   border-radius: 0;
   margin-bottom: 0;
