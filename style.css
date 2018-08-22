@@ -6,7 +6,7 @@ body {
 
 .blog {
   margin-left: 8vw;
-  margin-top: 2vw;
+  margin-top: 4vw;
 }
 
 .bmargin {
@@ -67,7 +67,8 @@ li {
 }
 
 .linkedin {
-  margin-left: 0;
+  margin-left: 2vw;
+  margin-top: 4vw;
 }
 
 .lmargin {
@@ -161,8 +162,6 @@ ol {
     height: 150px;
     width: 300px;
     padding: 0;
-    /* padding-left: 5px;
-    padding-right: 5px; */
     margin-left: 5vw;
     margin-top: 4vw;
 }
