@@ -132,6 +132,10 @@ ol {
   line-height: 1.0;
 }
 
+.share {
+  float: right;
+}
+
 .spacing {
   margin-left: 28vw;
   margin-right: 16vw;
