@@ -61,9 +61,6 @@ h5 {
   color: white;
 }
 
-.indent {
-  text-indent: 6vw;
-}
 
 li {
   display: inline-block;
@@ -136,8 +133,7 @@ ol {
 }
 
 .share {
-  display: inline-block;
-  float: right;
+  padding-left: 6vw;
 }
 
 .spacing {
