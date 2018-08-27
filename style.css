@@ -61,6 +61,9 @@ h5 {
   color: white;
 }
 
+.indent {
+  text-indent: 6vw;
+}
 
 li {
   display: inline-block;
