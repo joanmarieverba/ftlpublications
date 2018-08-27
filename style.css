@@ -136,6 +136,7 @@ ol {
 }
 
 .share {
+  display: inline-block;
   float: right;
 }
 
