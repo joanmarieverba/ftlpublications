@@ -161,6 +161,12 @@ ol {
   height: 200px;
 }
 
+.text {
+  font-family: Oswald;
+  font-size: 18px;
+  color: white;
+}
+
 .titles {
   text-align: center;
 }
