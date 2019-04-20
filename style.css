@@ -146,8 +146,12 @@ ol {
 }
 
 .spacing2 {
-  margin-left: 37vw;
-  margin-right: 12vw;
+  margin-left: 12vw;
+  margin-right: 10vw;
+}
+
+.spacing3 {
+  margin-left: 20vw;
 }
 
 .square {
