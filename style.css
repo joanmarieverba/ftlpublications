@@ -75,6 +75,10 @@ li {
   margin-left: 2vw;
 }
 
+.lmargin1 {
+  margin-left: 1vw;
+}
+
 .navbar-header > .logo {
   height: 50px;
   width: 150px;
