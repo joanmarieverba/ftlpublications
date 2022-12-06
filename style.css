@@ -75,8 +75,12 @@ li {
   margin-left: 2vw;
 }
 
-.lmargin1 {
-  margin-left: 1vw;
+.lmargin7 {
+  margin-left: 7vw;
+}
+
+.lmarginm7 {
+  margin-left: -7vw;
 }
 
 .navbar-header > .logo {
